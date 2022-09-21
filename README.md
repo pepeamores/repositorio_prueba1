@@ -1,2 +1,2 @@
 # repositorio_prueba1
-es una prueba
+es una prueba de mi pc
